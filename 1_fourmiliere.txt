@@ -1,0 +1,12 @@
+3
+chambre 5 0
+##start
+entree 1 2
+##end
+sortie 9 2
+salon 5 4
+entree-chambre
+entree-salon
+chambre-sortie
+salon-sortie
+chambre-salon
